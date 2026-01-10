@@ -5,6 +5,9 @@ public class MainApp {
 		Animal a = new Dog();
 		a.walk();
 		a.sound();
+		
+		Teacher t = new Student();
+		t.teaching();
+		t.section();
 	}
-
 }
