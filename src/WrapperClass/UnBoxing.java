@@ -24,6 +24,5 @@ public class UnBoxing {
 		Integer d = s;
 		int f = d;
 		System.out.println(f);
-		
 	}
 }
